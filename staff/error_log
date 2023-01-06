@@ -1,0 +1,5 @@
+[13-Aug-2019 07:12:29 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/hexazor/public_html/staff/add_user.php on line 84
+[13-Aug-2019 07:14:36 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/hexazor/public_html/staff/add_user.php on line 85
+[13-Aug-2019 07:14:38 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/hexazor/public_html/staff/add_user.php on line 85
+[13-Aug-2019 07:14:40 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/hexazor/public_html/staff/add_user.php on line 85
+[13-Aug-2019 07:15:40 UTC] PHP Parse error:  syntax error, unexpected '"  <br />"' (T_CONSTANT_ENCAPSED_STRING) in /home/hexazor/public_html/staff/add_user.php on line 85

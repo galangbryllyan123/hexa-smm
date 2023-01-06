@@ -1,0 +1,4 @@
+[13-Aug-2019 06:36:15 UTC] PHP Parse error:  syntax error, unexpected 'row' (T_STRING), expecting ',' or ';' in /home/hexazor/public_html/admin/operan.php on line 186
+[13-Aug-2019 06:36:18 UTC] PHP Parse error:  syntax error, unexpected 'row' (T_STRING), expecting ',' or ';' in /home/hexazor/public_html/admin/operan.php on line 186
+[13-Aug-2019 06:37:06 UTC] PHP Parse error:  syntax error, unexpected 'row' (T_STRING), expecting ',' or ';' in /home/hexazor/public_html/admin/operan.php on line 186
+[19-Aug-2019 18:13:16 UTC] PHP Parse error:  syntax error, unexpected '$cek' (T_VARIABLE) in /home/hexazor/public_html/admin/operan.php on line 215
